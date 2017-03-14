@@ -1,5 +1,8 @@
 _repo: Waverley-Or-Tis-Sixty-Years-Since-Complete_4966
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Scott, Walter
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/59
     wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4966#Waverley-Or-Tis-Sixty-Years-Since-Complete
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
